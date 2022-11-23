@@ -1,1 +1,13 @@
-ciao
+APRIRE UN PACCHETTO DI FIGURINE
+1 - Prendo pacchetto di figurine
+2 - Tiro fuori le figurine dal pacchetto
+3 - Prendo l'album di figurine
+4 - Scorro le figurine del pacchetto
+    ? Ho già questa figurina nell'album?
+      SE è doppione 
+       Prendo il mazzetto dei doppioni
+       Metto in un mazzetto a parte
+      ALTIMENTI 
+       Le attacco sull'album
+    
+
